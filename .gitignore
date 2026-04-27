@@ -1,0 +1,6 @@
+# Stata
+*.log
+*.dta
+
+# System  
+.DS_Store
